@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This application follows an online tutorial to create a simple to do application with Rails. 
+The tutorial is located at the following link: https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3
